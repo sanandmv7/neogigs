@@ -1,0 +1,43 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+  }
+  
+  .address {
+    text-align: center;
+    margin: 10px;
+    border-bottom: 0.5px solid black;
+    padding-bottom: 10px;
+  }
+
+  .message {
+    text-align: center;
+    margin: 10px;
+    padding-bottom: 10px;
+  }
+
+  .img-container {
+    width: 300px;
+    height: auto;
+  }
+
+  .nft-marketplace {
+    margin-top: 20px;
+  }
+  .not-found {
+    margin: auto;
+    margin-top: 130px;
+    color: gray;
+  }
+  .rowData{
+    display: flex;
+  }
+  .colData{
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .navBar{
+    padding-left: 20px;
+    padding-right: 20px;
+  }
